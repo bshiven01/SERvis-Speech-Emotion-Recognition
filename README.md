@@ -3,7 +3,7 @@
 ## Emotional Health Detection using Speech for Effective & Efficient Diagnosis 
 
 ### About
-**SERvis** is a speech-based emotion recognition system conceptualized by a team of 5 stduents from IIT Bombay for fulfilling the requirements of the course **ME781 : Statistical Machine Learning and Data Science**. 
+**SERvis** is a speech-based emotion recognition system conceptualized by a team of 5 stduents from IIT Bombay for fulfilling the requirements of the course **ME781 : Statistical Machine Learning and Data Science**, Autumn 2021 . 
 
 ### Objective
 Access to records of emotional indicators of patients can improve diagnosis and treatment strategies. SERvis aims to develop a system that would accomplish this
