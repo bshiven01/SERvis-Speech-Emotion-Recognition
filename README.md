@@ -18,7 +18,7 @@ Mel-Frequency Cepstral Coefficients (MFCC) based feature extraction is used to e
 Post feature extraction a 1-D CNN is applied on the dataframe obtained. Model is evaluated using a simple 3:1 Train:Test split of data.
 
 #### Overview
-![Image here]()
+![Image here](concept.png)
 
 
 ### Datasetsets
