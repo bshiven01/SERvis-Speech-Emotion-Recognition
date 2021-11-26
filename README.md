@@ -41,6 +41,10 @@ Post feature extraction a 1-D CNN is applied on the dataframe obtained. Model is
    - 7442 audio files
    - 91 different speakers (48 male and 43 female between the ages of 20 and 74) of different races and ethnicities
    - different statements are spoken in 6 different emotions and 4 emotional levels (low, mid, high and unspecified)
+
+### Videos
+1. [Product Demonstration](https://drive.google.com/file/d/1C99p-IELbYaIeNoRGA3XRSMyykP5LQsv/view?usp=sharing)
+2. [Marketing Video](https://drive.google.com/file/d/1c1a2Qn3bEjbsIgOq_ee6fzuyL5d8iE-P/view?usp=sharing)
    
 ### References
 1. 
